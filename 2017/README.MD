@@ -6,5 +6,6 @@ My solutions to <a href="http://adventofcode.com/">Advent of Code</a>, daily hol
 * `p03*.php` - [Day 3: Spiral Memory](http://adventofcode.com/2017/day/3)
 * `p04*.php` - [Day 4: High-Entropy Passphrases](http://adventofcode.com/2017/day/4)
 * `p05*.php` - [Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5)
+* `p06*.php` - [Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6)
 
 Solutions by Kathryn Lybarger, distributed under CC-BY-SA.
